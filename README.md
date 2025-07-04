@@ -65,4 +65,4 @@ This is a **memory-based reaction game** built on the Seeed Studio XIAO RP2040. 
 * Multiplayer mode
 * Web-based scoreboard (via Wi-Fi on ESP32 variant)
 
-** For Pcb files and Models Please Check out OtherFiles Folder and PLease Ignore HopeFinder Name (it Was Choosen Fisrt But Didnt LIke it) **
+**For Pcb files and Models Please Check out OtherFiles Folder and PLease Ignore HopeFinder Name (it Was Choosen Fisrt But Didnt LIke it)**
