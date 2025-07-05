@@ -15,8 +15,8 @@ i always Wnated to create A hardware based Game, so pathfinder hepled me and giv
 
 ## Images 
 ![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(100).png)
-![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(101).png)
 ![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(102).png)
+![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(101).png)
 
 ### 🔩 Bill of Materials (BOM)
 
