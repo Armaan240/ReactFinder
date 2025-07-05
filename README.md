@@ -13,6 +13,10 @@ i always Wnated to create A hardware based Game, so pathfinder hepled me and giv
 * Win = buzzer celebration sound + level up
 * Lose = if you were un Successfull in Order ,buzzer fail tone + restart game
 
+## Images 
+![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(100).png)
+![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(101).png)
+![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(102).png)
 
 ### 🔩 Bill of Materials (BOM)
 
