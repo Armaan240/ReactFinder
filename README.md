@@ -14,7 +14,11 @@ i always Wnated to create A hardware based Game, so pathfinder hepled me and giv
 * Lose = if you were un Successfull in Order ,buzzer fail tone + restart game
 
 ## Images 
-![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(100).png)
+
+![IMG_3354](https://github.com/user-attachments/assets/0b369491-6954-4291-98bb-adc2a69bb3a4)
+
+![]![IMG_3355](https://github.com/user-attachments/assets/517f1a76-dc12-4439-8774-fed9d706014c)
+(https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(100).png)
 ![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(102).png)
 ![](https://github.com/Armaan240/ReactFinder/blob/main/OtherFiles/Screenshot%20(101).png)
 
